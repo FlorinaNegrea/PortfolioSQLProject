@@ -1,0 +1,1 @@
+This project is a comprehensive SQL analysis of the Northwind Traders dataset, focusing on sales, customers, employees, and suppliers. The dataset consists of multiple relational tables, allowing for complex queries and business insights.
