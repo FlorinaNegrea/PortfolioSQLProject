@@ -14,9 +14,9 @@ Order Details 📝 – A junction table that connects orders and products, stori
 🔍 Features & Queries
 
 This project covers a wide range of SQL concepts and queries, including:
-Basic Data Retrieval - SELECT, WHERE, ORDER BY
-Aggregations & Grouping - GROUP BY, HAVING, COUNT, SUM, AVG
-Joins & Relationships - INNER JOIN
-Window Functions - RANK, LAG, PARTITION BY
-Common Table Expressions (CTEs) for hierarchical data
-Temporary Tables & Stored Procedures for dynamic queries
+Basic Data Retrieval - SELECT, WHERE, ORDER BY.
+Aggregations & Grouping - GROUP BY, HAVING, COUNT, SUM, AVG.
+Joins & Relationships - INNER JOIN.
+Window Functions - RANK, LAG, PARTITION BY.
+Common Table Expressions (CTEs) for hierarchical data.
+Temporary Tables & Stored Procedures for dynamic queries.
